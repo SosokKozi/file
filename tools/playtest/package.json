@@ -1,0 +1,14 @@
+{
+  "name": "oskolki-playtest",
+  "private": true,
+  "description": "Бот-автопилот, скриншоты и таблица прыжков для «Осколков скорости»",
+  "scripts": {
+    "bot": "node bot.js",
+    "shots": "node shots.js",
+    "physics": "node physics.js"
+  },
+  "devDependencies": {
+    "playwright-core": "1.63.0",
+    "three": "0.149.0"
+  }
+}
