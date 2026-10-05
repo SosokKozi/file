@@ -1,0 +1,7 @@
+{
+    "name": "StormPath.Editor",
+    "rootNamespace": "StormPath.Editor",
+    "references": ["StormPath.Sim", "StormPath.Data", "StormPath.Game"],
+    "includePlatforms": ["Editor"],
+    "autoReferenced": false
+}

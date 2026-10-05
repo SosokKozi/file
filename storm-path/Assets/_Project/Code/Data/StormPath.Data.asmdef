@@ -1,0 +1,7 @@
+{
+    "name": "StormPath.Data",
+    "rootNamespace": "StormPath.Data",
+    "references": ["StormPath.Sim"],
+    "autoReferenced": true,
+    "noEngineReferences": false
+}

@@ -1,0 +1,23 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/Packages/packages-lock.json
+*.csproj
+*.sln
+*.suo
+*.user
+.vs/
+.idea/
+*.pidb.meta
+sysinfo.txt
+*.apk
+*.aab
+# dotnet (tools/SimTests)
+bin/
+!tools/SimTests/SimTests.csproj
+obj/
