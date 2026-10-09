@@ -1,0 +1,11 @@
+{
+  "enabledMcpjsonServers": ["blender", "unityMCP"],
+  "permissions": {
+    "allow": [
+      "Bash(dotnet test tools/SimTests*)",
+      "Bash(dotnet build tools/CompileCheck*)",
+      "Bash(python3 tools/tripo/tripo_generate.py)",
+      "Bash(python3 tools/tripo/tripo_generate.py --only*)"
+    ]
+  }
+}
